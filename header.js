@@ -23,11 +23,11 @@ class Header extends HTMLElement
         
         <div class="topnav">
         <a class="active" href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="resume.html">Resume</a>
         <a href="projects.html">Projects</a>
         <a href="database.html">Database Projects</a>
         <a href="tests.html">API Unit Tests</a>
-        <a href="about.html">About</a>
-        <a href="resume.html">Resume</a>
       </div>
         `;
     }
